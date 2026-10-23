@@ -1,0 +1,25 @@
+Customer_ID,Name,Age,Gender,Email,Phone,City,Salary,Joining_Date,Department
+101,rahul sharma,25,Male,rahul@gmail.com,9876543210,pune,45000,15-01-2023,IT
+102,priya patil,100,Female,priya@gmail.com,9876543211,pune,52000,15-02-2023,HR
+103,amit shah,28,Male,amit@gmail.com,1234567891,mumbai,48000,10-03-2023,IT
+104,sneha joshi,27,Female,sneha@gmail.com,9876543213,mumbai ,55000,10-04-2023,Finance
+105,rohit kumar,100,Male,rohit@gmail.com,9876543214,delhi,50000,20-05-2023,IT
+106,neha singh,24,Female,neha@gmail.com,9876543215,delhi,47000,01-06-2023,HR
+108,anjali mehta,29,Female,anjali@gmail,9876543217,pune,60000,12-07-2023,Finance
+109,vikash verma,31,Male,vikash@gmail.com,9876543218,mumbai,70000,05-08-2023,IT
+110,pooja desai,26,Female,pooja@gmail.com,1987654321,pune,52000,15-09-2023,HR
+111,karan malhotra,35,Male,karan@gmail.com,9876543220, delhi,80000,01-10-2023,Management
+112,meena joshi,-5,Female,meena@gmail.com,9876543221,pune,49000,10-11-2023,HR
+113,suresh patil,40,Male,suresh@gmail.com,9876543222,pune,-30000,01-12-2023,IT
+114,riya kapoor,23,Female,riya@gmail.com,9876543223,mumbai,51000,01-01-2024,Finance
+115,arjun rao,27,Male,arjun@gmail.com,9876543224,mumbai,58000,15-02-2024,IT
+116,priya  patil,23,Female,priya@gmail.com,9876543211,pune,52000,15-02-2023,HR
+117,sameer khan,30,Male,sameer@gmail.com,9876543226,delhi,65000,20-03-2024,IT
+118,divya nair,100,Female,divya@gmail.com,9876543227,pune,54000,10-04-2024,HR
+119,raj gupta,45,Male,raj@gmail.com,9876543228,mumbai,90000,01-05-2024,Management
+120,ananya rao,28,Female,ananya@gmail.com,9876543229,pune,62000,15-06-2024,Finance
+121,manish yadav,29,Male,manish@gmail.com,9876543230,delhi,58000,01-07-2024,IT
+122,kavita joshi,26,Female,kavita@gmail.com,9876543231,mumbai,57000,10-08-2024,HR
+123,deepak singh,150,Male,deepak@gmail.com,9876543232,pune,61000,05-09-2024,IT
+124,sunita rao,32,Female,sunita@gmail.com,9876543233,delhi,59000,12-10-2024,Finance
+125,akash jain,24,Male,akash@gmail.com,9876543234,pune,,20-11-2024,IT
